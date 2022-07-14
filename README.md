@@ -2,13 +2,11 @@
 
 I'm Andrew, an FPV drone pilot and developer based in North Carolina.
 
- [![As Seen On TV](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://l.bigspeed.tech/zoom)
+ [![As Seen On TV](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://www.youtube.com/watch?v=7UJhRN95log)
 
 ## 🧑‍💻 **About Me**
- - ✈️ I'm currently in the top 100 pilots on [the MultiGP Global Qualifier](https://www.multigp.com/championships/2021-multigp-series-global-qualifier-leaderboard/).
- - ⌛ I've been flying for about 2 years.
+ - ✈️ I'm a 17 y/o FPV drone pilot from North Carolina.
  - 🧑‍🎓 I'm currently learning [Rust](https://rust-lang.org).
- - 🤖 I'm currently working on [MASSIVE](https://github.com/bigspeedfpv/massive), a Discord bot I'm making to learn Rust.
  - ☎️ You can contact me on [Discord](https://discord.com/users/277822562116042753) (bigspeed#7428).
 
 ## 🖥️ **Technologies I'm familiar with**
