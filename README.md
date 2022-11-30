@@ -7,7 +7,7 @@ I'm Andrew, an FPV drone pilot and developer based in North Carolina.
 ## 🧑‍💻 **About Me**
  - ✈️ I'm a 17 y/o FPV drone pilot from North Carolina.
  - 🧑‍🎓 I'm currently learning [Rust](https://rust-lang.org).
- - ☎️ You can contact me on [Discord](https://discord.com/users/277822562116042753) (bigspeed#7428).
+ - ☎️ You can contact me on [Discord](https://discord.com/users/277822562116042753) (biggy#0641).
 
 ## 🖥️ **Technologies I'm familiar with**
 ### 🌎 **Languages**
