@@ -21,15 +21,15 @@ I'm Andrew, an FPV drone pilot and developer based in North Carolina.
   <a href="https://rust-lang.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="30" height="30">
   </a>
+  <a href="https://go.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30" height="30" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30">
-  </a>
-  <a href="https://swift.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30" height="30">
-  </a>
+ </a>
   <a href="https://python.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30">
   </a>
@@ -67,5 +67,8 @@ I'm Andrew, an FPV drone pilot and developer based in North Carolina.
   </a>
   <a href="https://docker.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30" height="30">
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" />
   </a>
 </p>
