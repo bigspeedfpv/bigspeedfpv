@@ -1,6 +1,6 @@
 # 👋 **Hey there!**
 
-I'm Andrew, an FPV drone pilot and developer based in North Carolina.
+I'm Andrew, an FPV drone pilot based in North Carolina.
 
  [![As Seen On TV](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://www.youtube.com/watch?v=7UJhRN95log)
 
