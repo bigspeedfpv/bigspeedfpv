@@ -6,7 +6,7 @@ I'm Andrew, an FPV drone pilot based in North Carolina.
 
 ## 🧑‍💻 **About Me**
  - ✈️ I'm a 17 y/o FPV drone pilot from North Carolina.
- - ☎️ You can contact me on [Discord](https://discord.com/users/277822562116042753) (biggy#0641).
+ - ☎️ You can contact me on [Discord](https://discord.com/users/277822562116042753) (andyy#2701).
 
 ## 🖥️ **Technologies I'm familiar with**
 ### 🌎 **Languages**
