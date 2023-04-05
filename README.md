@@ -1,7 +1,7 @@
 # 👋 **Hey there!**
 
 I'm Andrew, an FPV drone pilot based in North Carolina.
-You can contact me via email or on [Discord](https://discord.com/users/277822562116042753) (andyb#2701).
+You can contact me via email or on [Discord](https://discord.com/users/277822562116042753) (andyb#0339).
 
 <!--START_SECTION:waka-->
 
