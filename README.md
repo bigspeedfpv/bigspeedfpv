@@ -1,6 +1,6 @@
 # 👋 **Hey there!**
 
-I'm Andrew, an FPV drone pilot based in North Carolina.
+I'm Andrew.
 You can contact me via email or on [Discord](https://discord.com/users/277822562116042753) @bigspeedfpv.
 
 <!--START_SECTION:waka-->
@@ -19,11 +19,12 @@ Ezhil            14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-## 🖥️ **Technologies I'm familiar with**
+## 🖥️ **Technologies I'm proficient in**
 ### 🌎 **Languages**
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![Rust](https://img.shields.io/badge/rust-black.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-black.svg?style=for-the-badge&logo=csharp&logoColor=%23f5c9f4)
 ![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8)
 ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
@@ -36,6 +37,7 @@ Ezhil            14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Svelte](https://img.shields.io/badge/svelte-black.svg?style=for-the-badge&logo=svelte&logoColor=%23f1413d)
 ![Tauri](https://img.shields.io/badge/tauri-black.svg?style=for-the-badge&logo=tauri&logoColor=%2324C8DB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Dotnet](https://img.shields.io/badge/dotnet-black?style=for-the-badge&logo=dotnet&logoColor=%23f5c9f4)
 
 ### 🛠️ **Tools**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
