@@ -24,6 +24,7 @@ JavaScript            19 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![Rust](https://img.shields.io/badge/rust-black.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-black.svg?style=for-the-badge&logo=swift&logoColor=orange)
 ![C#](https://img.shields.io/badge/csharp-black.svg?style=for-the-badge&logo=csharp&logoColor=%23f5c9f4)
 ![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8)
 ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
