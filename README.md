@@ -6,7 +6,7 @@ You can contact me via email or on [Discord](https://discord.com/users/277822562
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2024 - To: 22 June 2024
+From: 16 June 2024 - To: 23 June 2024
 
 Total Time: 6 hrs 17 mins
 
