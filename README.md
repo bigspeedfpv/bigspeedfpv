@@ -1,7 +1,7 @@
 # 👋 **Hey there!**
 
 I'm Andy.
-You can contact me via email or on [Discord](https://discord.com/users/277822562116042753) `@andyuhh.`
+You can contact me via email or on [Discord](https://discord.com/users/277822562116042753) `@us.east.1`
 
 <!--START_SECTION:waka-->
 
