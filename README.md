@@ -3,19 +3,6 @@
 I'm Andy.
 You can contact me via email or on [Discord](https://discord.com/users/277822562116042753) `@us.east.1`
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 06 April 2025 - To: 13 April 2025
-
-Total Time: 1 hr 47 mins
-
-Rust   1 hr 46 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.52 %
-TOML   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.48 %
-```
-
-<!--END_SECTION:waka-->
-
 ## 🖥️ **Technologies I'm proficient in**
 ### 🌎 **Languages**
 ![Rust](https://img.shields.io/badge/rust-black.svg?style=for-the-badge&logo=rust&logoColor=white)
